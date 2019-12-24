@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "/assets/img/luop_avatar.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Beijing"
-  employer         :
+  name             : "Ping Luo"
+  avatar           : "luop_avatar.jpg"
+  bio              : "Associate Professor"
+  location         : "ICT, CAS, Beijing"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=d5L-OV4AAAAJ&hl=zh-CN&oi=sra"
-  email            : 
+  email            : "luop@ict.ac.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
