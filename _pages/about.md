@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-> **Ping Luo / 罗平**
-> Associate Professor
-> Key Laboratory of Intelligent Information Processing
-> Institute of Computing Technology, Chinese Academy of Sciences
-> University of Chinese Academy of Sciences
+> **Ping Luo / 罗平**          
+> Associate Professor             
+> Key Laboratory of Intelligent Information Processing             
+> Institute of Computing Technology, Chinese Academy of Sciences          
+> University of Chinese Academy of Sciences            
 
 
 ### Biography
