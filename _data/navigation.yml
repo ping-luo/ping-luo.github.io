@@ -3,11 +3,12 @@ main:
   - title: "Publications"
     url: /publications/
         
+   - title: "Press"
+    url: /press/
+    
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "Press"
-    url: /press/
   #- title: "CV"
   #  url: /cv/
 
