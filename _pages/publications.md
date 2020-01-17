@@ -5,6 +5,9 @@ permalink:  /publications/
 author_profile:  true
 ---
 
+|2019 |  |
+|--- | ---|
+|[pdf](https://ping-luo.github.io/files/2019_Yixuan.pdf) | Yixuan Cao, Dian Chen, Hongwei Li, Ping Luo: Nested Relation Extraction with Iterative Neural Network. CIKM 2019: 1001-1010|
 
 |2018 |  |
 |--- | ---|
