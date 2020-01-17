@@ -20,13 +20,12 @@ Ping Luo is currently an associate professor in the Institute of Computing Techn
 ### Research Interests
 Dr. Luo's general area of research is data mining and machine learning, with a focus on **knowledge discovery from richly formatted documents**. 
 
-### Teaching
-+ [AI Fundamental](http://www.ai-fundamental.com/) at UCAS (2015 - now)
-
 ### Projects
 + [PDFlux](https://en.pdflux.com/): table extraction and document structure recognition from richly formatted documents
 + [AutoDoc](https://autodoc.paodingai.com/): automatic cross-checking for financial disclosure documents
 
+### Teaching
++ [AI Fundamental](http://www.ai-fundamental.com/) at UCAS (2015 - now)
 
 ### Awards
 + ACM CIKM Best Student Paper Award (2012)
