@@ -25,3 +25,6 @@ Dr. Luo's general area of research is data mining and machine learning, with a f
 + ACM CIKM Best Paper Candidate Award (2010)
 + SDM Best Paper Candidate Award (2010)
 + Doctoral Dissertation Award, China Computer Federation (2009)
+
+### Teaching
++ [AI Fundamental](http://www.ai-fundamental.com/) at UCAS (2015 - now)
