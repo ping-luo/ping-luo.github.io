@@ -1,10 +1,8 @@
 ---
 layout: archive
+title:  "Press"
 permalink: /press/
-title: "Press"
 author_profile: true
-redirect_from:
-  - /press
 ---
 
-
+> this is a test page for Press.
