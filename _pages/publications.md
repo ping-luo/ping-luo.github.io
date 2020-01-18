@@ -28,7 +28,6 @@ author_profile:  true
 |[pdf](https://ping-luo.github.io/files/2017_Mechanism-Aware Neural Machine for Dialogue Response Generation.pdf) | Ganbin Zhou, Ping Luo,   Rongyu Cao, Fen Lin, Bo Chen, Qing He: Mechanism-Aware Neural Machine for   Dialogue Response Generation. AAAI 2017:  3400-3407|
 |[pdf](https://ping-luo.github.io/files/2017_Mining Precise-Positioning Episode Rules from Event Sequences (Poster).pdf) | Xiang Ao, Ping Luo, Jin   Wang, Fuzhen Zhuang, Qing He: Mining Precise-Positioning Episode Rules from   Event Sequences. ICDE 2017:  83-86|
 |[pdf](https://ping-luo.github.io/files/2017_Small Batch or Large Batch Gaussian Walk with Rebound Can Teach.pdf) | Peifeng Yin, Ping Luo,   Taiga Nakamura: Small Batch or Large Batch?:  Gaussian Walk with Rebound Can   Teach. KDD 2017:  1275-1284|
-|  | Ganbin Zhou, Ping Luo,   Rongyu Cao, Yijun Xiao, Fen Lin, Bo Chen, Qing He: Tree-Structured Neural   Machine for Linguistics-Aware Sentence Generation. CoRR abs/1705.00321 (2017)|
 
 |2016 |  |
 |--- | ---|
