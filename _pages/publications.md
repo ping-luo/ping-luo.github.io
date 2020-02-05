@@ -91,10 +91,8 @@ author_profile:  true
 |--- | ---|
 |[pdf](https://ping-luo.github.io/files/2011_Exploiting associations between word clusters and document classes for cross-domain text categorization.pdf) | Fuzhen Zhuang, Ping Luo, Hui Xiong, Qing He, Yuhong Xiong, Zhongzhi Shi: Exploiting associations between word clusters and document classes for cross-domain text categorization. Statistical Analysis and Data Mining 4(1): 100-114 (2011)|
 |pdf | Xu Pu, Jianyong Wang, Ping Luo, Min Wang: AWETO: efficient incremental update and querying in rdf storage system. CIKM 2011: 2445-2448|
-|[pdf](https://ping-luo.github.io/files/2011_Combining Supervised and Unsupervised Models via Unconstrained Probabilistic Embedding.pdf) | Xudong Ma, Ping Luo, Fuzhen Zhuang, Qing He, Zhongzhi Shi, Zhiyong Shen:
-Combining Supervised and Unsupervised Models via Unconstrained Probabilistic Embedding. IJCAI 2011: 1396-1401|
-|[pdf](https://ping-luo.github.io/files/2011_Prominent Streak Discovery in Sequence Data.pdf) | Xiao Jiang, Chengkai Li, Ping Luo, Min Wang, Yong Yu:
-Prominent streak discovery in sequence data. KDD 2011: 1280-1288|
+|[pdf](https://ping-luo.github.io/files/2011_Combining Supervised and Unsupervised Models via Unconstrained Probabilistic Embedding.pdf) | Xudong Ma, Ping Luo, Fuzhen Zhuang, Qing He, Zhongzhi Shi, Zhiyong Shen: Combining Supervised and Unsupervised Models via Unconstrained Probabilistic Embedding. IJCAI 2011: 1396-1401|
+|[pdf](https://ping-luo.github.io/files/2011_Prominent Streak Discovery in Sequence Data.pdf) | Xiao Jiang, Chengkai Li, Ping Luo, Min Wang, Yong Yu: Prominent streak discovery in sequence data. KDD 2011: 1280-1288|
 |[pdf](https://ping-luo.github.io/files/2011_REACTOR a framework for semantic relation extraction and tagging over enterprise data.pdf) | Wei Shen, Jianyong Wang, Ping Luo, Min Wang, Conglei Yao: REACTOR: a framework for semantic relation extraction and tagging over enterprise data. WWW (Companion Volume) 2011: 121-122|
 
 |2010 |  |
@@ -112,13 +110,11 @@ Prominent streak discovery in sequence data. KDD 2011: 1280-1288|
 |[pdf](https://ping-luo.github.io/files/2009_Web article extraction for web printing a DOM+ visual based approach.pdf) | Ping Luo, Jian Fan, Sam Liu, Fen Lin, Yuhong Xiong, Jerry Liu: Web article extraction for web printing: a DOM+visual based approach. ACM Symposium on Document Engineering 2009: 66-69|
 |[pdf](https://ping-luo.github.io/files/2009_Topic Modeling for Sequences of Temporal Activities.pdf) | Zhiyong Shen, Ping Luo, Yuhong Xiong, Jun Sun, Yi-Dong Shen: Topic Modeling for Sequences of Temporal Activities. ICDM 2009: 980-985|
 |[pdf](https://ping-luo.github.io/files/2009_Towards Combining Web Classification and Web Information Extraction a Case Study.pdf) | Ping Luo, Fen Lin, Yuhong Xiong, Yong Zhao, Zhongzhi Shi: Towards combining web classification and web information extraction: a case study. KDD 2009: 1235-1244| 
-|pdf | Baoyao Zhou, Ping Luo, Yuhong Xiong, Wei Liu:
-Wikipedia-Graph Based Key Concept Extraction towards News Analysis. CEC 2009: 121-128|
+|pdf | Baoyao Zhou, Ping Luo, Yuhong Xiong, Wei Liu: Wikipedia-Graph Based Key Concept Extraction towards News Analysis. CEC 2009: 121-128|
 
 |2008 |  |
 |--- | ---|
-|[pdf](https://ping-luo.github.io/files/2008_Transfer Learning from Multiple Source Domains via Consensus Regularization.pdf) | Ping Luo, Fuzhen Zhuang, Hui Xiong, Yuhong Xiong, Qing He:
-Transfer learning from multiple source domains via consensus regularization. CIKM 2008: 103-112|
+|[pdf](https://ping-luo.github.io/files/2008_Transfer Learning from Multiple Source Domains via Consensus Regularization.pdf) | Ping Luo, Fuzhen Zhuang, Hui Xiong, Yuhong Xiong, Qing He: Transfer learning from multiple source domains via consensus regularization. CIKM 2008: 103-112|
 
 |2007 |  |
 |--- | ---|
