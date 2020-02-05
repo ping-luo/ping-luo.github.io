@@ -110,7 +110,6 @@ author_profile:  true
 |[pdf](https://ping-luo.github.io/files/2009_Web article extraction for web printing a DOM+ visual based approach.pdf) | Ping Luo, Jian Fan, Sam Liu, Fen Lin, Yuhong Xiong, Jerry Liu: Web article extraction for web printing: a DOM+visual based approach. ACM Symposium on Document Engineering 2009: 66-69|
 |[pdf](https://ping-luo.github.io/files/2009_Topic Modeling for Sequences of Temporal Activities.pdf) | Zhiyong Shen, Ping Luo, Yuhong Xiong, Jun Sun, Yi-Dong Shen: Topic Modeling for Sequences of Temporal Activities. ICDM 2009: 980-985|
 |[pdf](https://ping-luo.github.io/files/2009_Towards Combining Web Classification and Web Information Extraction a Case Study.pdf) | Ping Luo, Fen Lin, Yuhong Xiong, Yong Zhao, Zhongzhi Shi: Towards combining web classification and web information extraction: a case study. KDD 2009: 1235-1244| 
-|pdf | Baoyao Zhou, Ping Luo, Yuhong Xiong, Wei Liu: Wikipedia-Graph Based Key Concept Extraction towards News Analysis. CEC 2009: 121-128|
 
 |2008 |  |
 |--- | ---|
