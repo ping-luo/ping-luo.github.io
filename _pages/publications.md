@@ -60,3 +60,70 @@ author_profile:  true
 |[pdf](https://ping-luo.github.io/files/2014_Deal or deceit detecting cheating in distribution channels.pdf) | Kai Shu, Ping Luo, Wan Li,   Peifeng Yin, Linpeng Tang: Deal or deceit:  detecting cheating in distribution   channels. CIKM 2014:  1419-1428|
 |[pdf](https://ping-luo.github.io/files/2014_Mining user tasks from print logs.pdf) | Xin Li, Lei Zhang, Ping Luo, Enhong Chen, Guandong Xu, Yu Zong,   Chu Guan: Mining user tasks from print logs. IJCNN 2014:  1250-1257|
 |[pdf](https://ping-luo.github.io/files/2014_Discovering and learning sensational episodes of news events.pdf) | Xiang Ao, Ping Luo,   Chengkai Li, Fuzhen Zhuang, Qing He, Zhongzhi Shi: Discovering and learning   sensational episodes of news events. WWW (Companion Volume) 2014:  217-218|
+
+|2013 |  |
+|--- | ---|
+|[pdf](https://ping-luo.github.io/files/2013_Discovering General Prominent Streaks in Sequence Data.pdf) | Gensheng Zhang, Xiao Jiang, Ping Luo, Min Wang, Chengkai Li: Discovering General Prominent Streaks in Sequence Data. TKDD 8(2): 9:1-9:37 (2013)|
+|pdf | Lili Jiang, Ping Luo, Jianyong Wang, Yuhong Xiong, Bingduan Lin, Min Wang, Ning An: GRIAS: An Entity-Relation Graph Based Framework for Discovering Entity Aliases. ICDM 2013: 310-319|
+|[pdf](https://ping-luo.github.io/files/2013_From Social User Activities to People Affiliation.pdf) | Guangxiang Zeng, Ping Luo, Enhong Chen, Min Wang: From Social User Activities to People Affiliation. ICDM 2013: 1277-1282|
+|[pdf](https://ping-luo.github.io/files/2013_Concept Learning for Crossdomain Text Classification a General Probabilistic Framework.pdf) | Fuzhen Zhuang, Ping Luo, Peifeng Yin, Qing He, Zhongzhi Shi: Concept Learning for Cross-Domain Text Classification: A General Probabilistic Framework. IJCAI 2013: 1960-1967|
+|[pdf](https://ping-luo.github.io/files/2013_Linking Named Entities in Tweets with Knowledge Base via User Interest Modeling.pdf) | Wei Shen, Jianyong Wang, Ping Luo, Min Wang: Linking named entities in Tweets with knowledge base via user interest modeling. KDD 2013: 68-76|
+|[pdf](https://ping-luo.github.io/files/2013_Silence is Also Evidence_Interpreting Dwell Time for Recommendation from_Psychological Perspective.pdf) | Peifeng Yin, Ping Luo, Wang-Chien Lee, Min Wang: Silence is also evidence: interpreting dwell time for recommendation from psychological perspective. KDD 2013: 989-997|
+|pdf | Wenchao Yu, Guangxiang Zeng, Ping Luo, Fuzhen Zhuang, Qing He, Zhongzhi Shi: Embedding with Autoencoder Regularization. ECML/PKDD (3) 2013: 208-223|
+|[pdf](https://ping-luo.github.io/files/2013_App Recommendation A Contest between Satisfaction and Temptation.pdf) | Peifeng Yin, Ping Luo, Wang-Chien Lee, Min Wang: App recommendation: a contest between satisfaction and temptation. WSDM 2013: 395-404|
+|[pdf](https://ping-luo.github.io/files/2013_Triplex Transfer Learning Exploiting both Shared and Distinct Concepts for Text Classification.pdf) | Fuzhen Zhuang, Ping Luo, Changying Du, Qing He, Zhongzhi Shi: Triplex transfer learning: exploiting both shared and distinct concepts for text classification. WSDM 2013: 425-434|
+
+|2012 |  |
+|--- | ---|
+|pdf | Li Zeng, Ling Li, Lian Duan, Kevin Lü, Zhongzhi Shi, Maoguang Wang, Wenjuan Wu, Ping Luo: Distributed data mining: a survey. Information Technology and Management 13(4): 403-409 (2012)|
+|[pdf](https://ping-luo.github.io/files/2012_Mining Distinction and Commonality across Multiple Domains Using Generative Model for Text Classification.pdf) | Fuzhen Zhuang, Ping Luo, Zhiyong Shen, Qing He, Yuhong Xiong, Zhongzhi Shi, Hui Xiong: Mining Distinction and Commonality across Multiple Domains Using Generative Model for Text Classification. IEEE Trans. Knowl. Data Eng. 24(11): 2025-2039 (2012)|
+|pdf | Fuzhen Zhuang, Ping Luo, Zhiyong Shen, Qing He, Yuhong Xiong, Zhongzhi Shi, Hui Xiong: Erratum to "Mining Distinction and Commonality across Multiple Domains Using Generative Model for Text Classification". IEEE Trans. Knowl. Data Eng. 24(12): 2301 (2012)|
+|[pdf](https://ping-luo.github.io/files/2012_Incorporating Occupancy into Frequent Pattern Mining for High Quality Pattern Recommendation.pdf) | Linpeng Tang, Lei Zhang, Ping Luo, Min Wang: Incorporating occupancy into frequent pattern mining for high quality pattern recommendation. CIKM 2012: 75-84|
+|pdf | Wei Shen, Jianyong Wang, Ping Luo, Min Wang: A graph-based approach for ontology population with named entities. CIKM 2012: 345-354|
+|[pdf](https://ping-luo.github.io/files/2012_Harnessing the Wisdom of the Crowds for Accurate Web Page Clipping.pdf) | Lei Zhang, Linpeng Tang, Ping Luo, Enhong Chen, Limei Jiao, Min Wang, Guiquan Liu: Harnessing the wisdom of the crowds for accurate web page clipping. KDD 2012: 570-578|
+|[pdf](https://ping-luo.github.io/files/2012_LIEGE Link Entities in Web Lists with Knowledge Base.pdf) | Wei Shen, Jianyong Wang, Ping Luo, Min Wang: LIEGE::link entities in web lists with knowledge base. KDD 2012: 1424-1432|
+|pdf | Lili Jiang, Jianyong Wang, Ping Luo, Ning An, Min Wang: Towards alias detection without string similarity: an active learning based approach. SIGIR 2012: 1155-1156|
+|[pdf](https://ping-luo.github.io/files/2012_A Straw Shows Which Way the Wind Blows Ranking Potentially Popular Items from Early Votes.pdf) | Peifeng Yin, Ping Luo, Min Wang, Wang-Chien Lee: A straw shows which way the wind blows: ranking potentially popular items from early votes. WSDM 2012: 623-632|
+|[pdf](https://ping-luo.github.io/files/2012_LINDEN linking named entities with knowledge base via semantic knowledge.pdf) | Wei Shen, Jianyong Wang, Ping Luo, Min Wang: LINDEN: linking named entities with knowledge base via semantic knowledge. WWW 2012: 449-458|
+|[pdf](https://ping-luo.github.io/files/2012_APOLLO a general framework for populating ontology with named entities via random walks on graphs.pdf) | Wei Shen, Jianyong Wang, Ping Luo, Min Wang: APOLLO: a general framework for populating ontology with named entities via random walks on graphs. WWW (Companion Volume) 2012: 595-596|
+
+|2011 |  |
+|--- | ---|
+|[pdf](https://ping-luo.github.io/files/2011_Exploiting associations between word clusters and document classes for cross-domain text categorization.pdf) | Fuzhen Zhuang, Ping Luo, Hui Xiong, Qing He, Yuhong Xiong, Zhongzhi Shi: Exploiting associations between word clusters and document classes for cross-domain text categorization. Statistical Analysis and Data Mining 4(1): 100-114 (2011)|
+|pdf | Xu Pu, Jianyong Wang, Ping Luo, Min Wang: AWETO: efficient incremental update and querying in rdf storage system. CIKM 2011: 2445-2448|
+|[pdf](https://ping-luo.github.io/files/2011_Combining Supervised and Unsupervised Models via Unconstrained Probabilistic Embedding.pdf) | Xudong Ma, Ping Luo, Fuzhen Zhuang, Qing He, Zhongzhi Shi, Zhiyong Shen:
+Combining Supervised and Unsupervised Models via Unconstrained Probabilistic Embedding. IJCAI 2011: 1396-1401|
+|[pdf](https://ping-luo.github.io/files/2011_Prominent Streak Discovery in Sequence Data.pdf) | Xiao Jiang, Chengkai Li, Ping Luo, Min Wang, Yong Yu:
+Prominent streak discovery in sequence data. KDD 2011: 1280-1288|
+|[pdf](https://ping-luo.github.io/files/2011_REACTOR a framework for semantic relation extraction and tagging over enterprise data.pdf) | Wei Shen, Jianyong Wang, Ping Luo, Min Wang, Conglei Yao: REACTOR: a framework for semantic relation extraction and tagging over enterprise data. WWW (Companion Volume) 2011: 121-122|
+
+|2010 |  |
+|--- | ---|
+|[pdf](https://ping-luo.github.io/files/2010_Cross-Domain Learning from Multiple Sources A Consensus Regularization Perspective.pdf) | Fuzhen Zhuang, Ping Luo, Hui Xiong, Yuhong Xiong, Qing He, Zhongzhi Shi: Cross-Domain Learning from Multiple Sources: A Consensus Regularization Perspective. IEEE Trans. Knowl. Data Eng. 22(12): 1664-1678 (2010)|
+|[pdf](https://ping-luo.github.io/files/2010_Collaborative Dual-PLSA Mining Distinction and Commonality across MultipleDomains for Classification.pdf) | Fuzhen Zhuang, Ping Luo, Zhiyong Shen, Qing He, Yuhong Xiong, Zhongzhi Shi, Hui Xiong: Collaborative Dual-PLSA: mining distinction and commonality across multiple domains for text classification. CIKM 2010: 359-368|
+|[pdf](https://ping-luo.github.io/files/2010_D-LDA A Topic Modeling Approach without Constraint Generation for Semi-defined Classification.pdf) | Fuzhen Zhuang, Ping Luo, Zhiyong Shen, Qing He, Yuhong Xiong, Zhongzhi Shi: D-LDA: A Topic Modeling Approach without Constraint Generation for Semi-defined Classification. ICDM 2010: 709-718|
+|pdf | Zhiyong Shen, Ping Luo, Shengwen Yang, Xukun Shen: Topic Modeling Ensembles. ICDM 2010: 1031-1036|
+|[pdf](https://ping-luo.github.io/files/2010_Exploiting Associations between Word Clusters and Document Classes for Cross-domain Text Categorization.pdf) | Fuzhen Zhuang, Ping Luo, Hui Xiong, Qing He, Yuhong Xiong, Zhongzhi Shi: Exploiting Associations between Word Clusters and Document Classes for Cross-Domain Text Categorization. SDM 2010: 13-24|
+
+|2009 |  |
+|--- | ---|
+|[pdf](https://ping-luo.github.io/files/2009_Information-Theoretic Distance Measures for Clustering Validation Generalization and Normalization.pdf) | Ping Luo, Hui Xiong, Guoxing Zhan, Junjie Wu, Zhongzhi Shi: Information-Theoretic Distance Measures for Clustering Validation: Generalization and Normalization. IEEE Trans. Knowl. Data Eng. 21(9): 1249-1262 (2009)|
+|pdf | Yuhong Xiong, Ping Luo, Yong Zhao, Fen Lin, Shicong Feng, Baoyao Zhou, Liwei Zheng: OfCourse: web content discovery, classification and information extraction for online course materials. CIKM 2009: 2077-2078|
+|[pdf](https://ping-luo.github.io/files/2009_Web article extraction for web printing a DOM+ visual based approach.pdf) | Ping Luo, Jian Fan, Sam Liu, Fen Lin, Yuhong Xiong, Jerry Liu: Web article extraction for web printing: a DOM+visual based approach. ACM Symposium on Document Engineering 2009: 66-69|
+|[pdf](https://ping-luo.github.io/files/2009_Topic Modeling for Sequences of Temporal Activities.pdf) | Zhiyong Shen, Ping Luo, Yuhong Xiong, Jun Sun, Yi-Dong Shen: Topic Modeling for Sequences of Temporal Activities. ICDM 2009: 980-985|
+|[pdf](https://ping-luo.github.io/files/2009_Towards Combining Web Classification and Web Information Extraction a Case Study.pdf) | Ping Luo, Fen Lin, Yuhong Xiong, Yong Zhao, Zhongzhi Shi: Towards combining web classification and web information extraction: a case study. KDD 2009: 1235-1244| 
+|pdf | Baoyao Zhou, Ping Luo, Yuhong Xiong, Wei Liu:
+Wikipedia-Graph Based Key Concept Extraction towards News Analysis. CEC 2009: 121-128|
+
+|2008 |  |
+|--- | ---|
+|[pdf](https://ping-luo.github.io/files/2008_Transfer Learning from Multiple Source Domains via Consensus Regularization.pdf) | Ping Luo, Fuzhen Zhuang, Hui Xiong, Yuhong Xiong, Qing He:
+Transfer learning from multiple source domains via consensus regularization. CIKM 2008: 103-112|
+
+|2007 |  |
+|--- | ---|
+|[pdf](https://ping-luo.github.io/files/2007_Distributed data mining in grid computing environments.pdf) | Ping Luo, Kevin Lü, Zhongzhi Shi, Qing He: Distributed data mining in grid computing environments. Future Generation Comp. Syst. 23(1): 84-91 (2007)|
+|[pdf](https://ping-luo.github.io/files/2007_A revisit of fast greedy heuristics for mapping a class of independent tasks onto heterogeneous computing systems.pdf) | Ping Luo, Kevin Lü, Zhongzhi Shi: A revisit of fast greedy heuristics for mapping a class of independent tasks onto heterogeneous computing systems. J. Parallel Distrib. Comput. 67(6): 695-714 (2007)|
+|[pdf](https://ping-luo.github.io/files/2007_On Defining Partition Entropy by Inequalities.pdf) | Ping Luo, Guoxing Zhan, Qing He, Zhongzhi Shi, Kevin Lü: On Defining Partition Entropy by Inequalities. IEEE Trans. Information Theory 53(9): 3233-3239 (2007)|
+|[pdf](https://ping-luo.github.io/files/2007_Combination Methodologies of Multi-agent Hyper Surface Classifiers Design and Implementation Issues.pdf) | Qing He, Xiu-Rong Zhao, Ping Luo, Zhongzhi Shi: Combination Methodologies of Multi-agent Hyper Surface Classifiers: Design and Implementation Issues. AIS-ADM 2007: 100-113|
+|[pdf](https://ping-luo.github.io/files/2007_Distributed Classification in Peer-to-Peer Networks.pdf) | Ping Luo, Hui Xiong, Kevin Lü, Zhongzhi Shi: Distributed classification in peer-to-peer networks. KDD 2007: 968-976|
