@@ -75,7 +75,6 @@ author_profile:  true
 
 |2012 |  |
 |--- | ---|
-|pdf | Li Zeng, Ling Li, Lian Duan, Kevin Lü, Zhongzhi Shi, Maoguang Wang, Wenjuan Wu, Ping Luo: Distributed data mining: a survey. Information Technology and Management 13(4): 403-409 (2012)|
 |[pdf](https://ping-luo.github.io/files/2012_Mining Distinction and Commonality across Multiple Domains Using Generative Model for Text Classification.pdf) | Fuzhen Zhuang, Ping Luo, Zhiyong Shen, Qing He, Yuhong Xiong, Zhongzhi Shi, Hui Xiong: Mining Distinction and Commonality across Multiple Domains Using Generative Model for Text Classification. IEEE Trans. Knowl. Data Eng. 24(11): 2025-2039 (2012)|
 |pdf | Fuzhen Zhuang, Ping Luo, Zhiyong Shen, Qing He, Yuhong Xiong, Zhongzhi Shi, Hui Xiong: Erratum to "Mining Distinction and Commonality across Multiple Domains Using Generative Model for Text Classification". IEEE Trans. Knowl. Data Eng. 24(12): 2301 (2012)|
 |[pdf](https://ping-luo.github.io/files/2012_Incorporating Occupancy into Frequent Pattern Mining for High Quality Pattern Recommendation.pdf) | Linpeng Tang, Lei Zhang, Ping Luo, Min Wang: Incorporating occupancy into frequent pattern mining for high quality pattern recommendation. CIKM 2012: 75-84|
