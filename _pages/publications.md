@@ -98,7 +98,7 @@ author_profile:  true
 |[pdf](https://ping-luo.github.io/files/2010_Cross-Domain Learning from Multiple Sources A Consensus Regularization Perspective.pdf) | Fuzhen Zhuang, Ping Luo, Hui Xiong, Yuhong Xiong, Qing He, Zhongzhi Shi: Cross-Domain Learning from Multiple Sources: A Consensus Regularization Perspective. IEEE Trans. Knowl. Data Eng. 22(12): 1664-1678 (2010)|
 |[pdf](https://ping-luo.github.io/files/2010_Collaborative Dual-PLSA Mining Distinction and Commonality across MultipleDomains for Classification.pdf) | Fuzhen Zhuang, Ping Luo, Zhiyong Shen, Qing He, Yuhong Xiong, Zhongzhi Shi, Hui Xiong: Collaborative Dual-PLSA: mining distinction and commonality across multiple domains for text classification. CIKM 2010: 359-368|
 |[pdf](https://ping-luo.github.io/files/2010_D-LDA A Topic Modeling Approach without Constraint Generation for Semi-defined Classification.pdf) | Fuzhen Zhuang, Ping Luo, Zhiyong Shen, Qing He, Yuhong Xiong, Zhongzhi Shi: D-LDA: A Topic Modeling Approach without Constraint Generation for Semi-defined Classification. ICDM 2010: 709-718|
-|[pdf](2010_Topic Modeling Ensembles.pdf) | Zhiyong Shen, Ping Luo, Shengwen Yang, Xukun Shen: Topic Modeling Ensembles. ICDM 2010: 1031-1036|
+|[pdf](https://ping-luo.github.io/files/2010_Topic Modeling Ensembles.pdf) | Zhiyong Shen, Ping Luo, Shengwen Yang, Xukun Shen: Topic Modeling Ensembles. ICDM 2010: 1031-1036|
 |[pdf](https://ping-luo.github.io/files/2010_Exploiting Associations between Word Clusters and Document Classes for Cross-domain Text Categorization.pdf) | Fuzhen Zhuang, Ping Luo, Hui Xiong, Qing He, Yuhong Xiong, Zhongzhi Shi: Exploiting Associations between Word Clusters and Document Classes for Cross-Domain Text Categorization. SDM 2010: 13-24|
 
 |2009 |  |
