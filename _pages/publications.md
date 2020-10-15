@@ -8,7 +8,7 @@ author_profile:  true
 |2020 |  |
 |--- | ---|
 |[pdf](https://ping-luo.github.io/files/2020_Cracking Tabular Presentation Diversity for Automatic Cross-Checking over Numerical Facts.pdf) | Hongwei Li, Qingping Yang, Yixuan Cao, Jiaquan Yao, Ping Luo: Cracking Tabular Presentation Diversity for Automatic Cross-Checking over Numerical Facts. KDD 2020: 2599-2607|
-|[pdf](https://ping-luo.github.io/files/2020_Pairwise Causality Structure Towards Nested Causality Mining on Financial Statements.pdf) | Dian Chen, Yixuan Cao, Ping Luo: Pairwise Causality Structure Towards Nested Causality Mining on Financial Statements. NLPCC 2020:|
+|[pdf](https://ping-luo.github.io/files/2020_Pairwise Causality Structure Towards Nested Causality Mining on Financial Statements.pdf) | Dian Chen, Yixuan Cao, Ping Luo: Pairwise Causality Structure Towards Nested Causality Mining on Financial Statements. NLPCC 2020: 725-737|
 
 |2019 |  |
 |--- | ---|
