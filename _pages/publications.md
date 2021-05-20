@@ -5,9 +5,9 @@ permalink:  /publications/
 author_profile:  true
 ---
 
-
 |2021 |  |
 |--- | ---|
+|[pdf](https://ping-luo.github.io/files/2021_Extracting Zero-shot Structured Information from Form-like Documents Pretraining with Keys and Triggers.pdf) | Rongyu Cao, Ping Luo: Extracting Zero-shot Structured Information from Form-like Documents Pretraining with Keys and Triggers. AAAI 2021|
 |[pdf](https://ping-luo.github.io/files/2020_Rich-text Document Styling Restoration via Reinforcement Learning.pdf) | Hongwei Li, Yingpeng Hu, Yixuan Cao, Ganbin Zhou, Ping Luo: Rich-text Document Styling Restoration via Reinforcement Learning. Frontiers Comput. Sci. (2021)|
 |[pdf](https://ping-luo.github.io/files/2020_Nested Relation Extraction with Iterative Neural Network.pdf) | Yixuan Cao, Dian Chen, Zhengqi Xu, Hongwei Li, Ping Luo: Nested Relation Extraction with Iterative Neural Network. Frontiers Comput. Sci. 15(3): 153323 (2021)|
 
@@ -33,7 +33,7 @@ author_profile:  true
 |[pdf](https://ping-luo.github.io/files/2018_Elastic Responding Machine for Dialog Generation with Dynamically Mechanism Selecting.pdf) | Ganbin Zhou, Ping Luo,   Yijun Xiao, Fen Lin, Bo Chen, Qing He: Elastic Responding Machine for Dialog   Generation with Dynamically Mechanism Selecting. AAAI 2018:  5730-5737|
 |[pdf](https://ping-luo.github.io/files/2018_Exploiting User Actions for App Recommendations.pdf) | Kai Shu, Suhang Wang, Huan   Liu, Jiliang Tang, Yi Chang, Ping Luo: Exploiting User Actions for App   Recommendations. ASONAM 2018:  139-142|
 |[pdf](https://ping-luo.github.io/files/2018_Adaboost with Auto-Evaluation for Conversational Models.pdf) | Juncen Li, Ping Luo,   Ganbin Zhou, Fen Lin, Cheng Niu: Adaboost with Auto-Evaluation for   Conversational Models. IJCAI 2018:  4173-4179|
-|[pdf](https://ping-luo.github.io/files/2018_Towards Automatic Numerical Cross-Checking Extracting Formulas from Text.pdf) | Yixuan Cao, Hongwei Li,   Ping Luo, Jiaquan Yao: Towards Automatic Numerical Cross-Checking:  Extracting   Formulas from Text. WWW 2018:  1795-1804|
+|[pdf](https://ping-luo.github.io/files/2018_Towards Automatic Numerical Cross-Checking Extracting Formulas from Text.pdf) | Yixuan Cao, Hongwei Li,   Ping Luo, Jiaquan Yao: Towards Automatic Numerical Cross-Checking:  Extracting Formulas from Text. WWW 2018:  1795-1804|
 
 |2017 |  |
 |--- | ---|
