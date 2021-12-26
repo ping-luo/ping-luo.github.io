@@ -7,6 +7,7 @@ author_profile:  true
 
 |2021 |  |
 |--- | ---|
+|[pdf](https://ping-luo.github.io/files/2021_Numerical Formula Recognition from Tables.pdf) | Qingping Yang, Yixuan Cao, Hongwei Li, Ping Luo: Numerical Formula Recognition from Tables. KDD 2021: 1986-1996 |
 |[pdf](https://ping-luo.github.io/files/2021_Extracting Zero-shot Structured Information from Form-like Documents Pretraining with Keys and Triggers.pdf) | Rongyu Cao, Ping Luo: Extracting Zero-shot Structured Information from Form-like Documents Pretraining with Keys and Triggers. AAAI 2021|
 |[pdf](https://ping-luo.github.io/files/2020_Rich-text Document Styling Restoration via Reinforcement Learning.pdf) | Hongwei Li, Yingpeng Hu, Yixuan Cao, Ganbin Zhou, Ping Luo: Rich-text Document Styling Restoration via Reinforcement Learning. Frontiers Comput. Sci. (2021)|
 |[pdf](https://ping-luo.github.io/files/2020_Nested Relation Extraction with Iterative Neural Network.pdf) | Yixuan Cao, Dian Chen, Zhengqi Xu, Hongwei Li, Ping Luo: Nested Relation Extraction with Iterative Neural Network. Frontiers Comput. Sci. 15(3): 153323 (2021)|
