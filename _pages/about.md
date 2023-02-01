@@ -18,10 +18,10 @@ redirect_from:
 Ping Luo is currently an associate professor in the Institute of Computing Technology, CAS. Before that, he was a Senior Research Scientist and Research Manager in the Hewlett-Packard Labs, China. He received his Ph.D. from Institute of Technology, CAS.
 
 ### Research Interests
-Dr. Luo's general area of research is data mining and machine learning, with a focus on **knowledge discovery from richly formatted documents**. 
+Dr. Luo's general area of research is data mining and machine learning, with a focus on **Document AI**. 
 
 ### Projects
-+ [PDFlux](https://en.pdflux.com/): table extraction and document structure recognition from richly formatted documents
++ [PDFlux](https://www.pdflux.com/): table extraction and document structure recognition from richly formatted documents
 + [AutoDoc](https://autodoc.paodingai.com/): automatic cross-checking for financial disclosure documents
 
 ### Teaching
