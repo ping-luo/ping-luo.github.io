@@ -5,12 +5,24 @@ permalink:  /publications/
 author_profile:  true
 ---
 
+
+|2022 |  |
+|--- | ---|
+|pdf | Rongyu Cao, Yixuan Cao, Ganbin Zhou, Ping Luo:
+Extracting Variable-Depth Logical Document Hierarchy from Long Documents: Method, Evaluation, and Application. J. Comput. Sci. Technol. 37(3): 699-718 (2022) |
+|pdf | 	Qingping Yang, Yixuan Cao, Ping Luo:
+Numerical Tuple Extraction from Tables with Pre-training. KDD 2022: 2233-2241 |
+
 |2021 |  |
 |--- | ---|
-|[pdf](https://ping-luo.github.io/files/2021_Numerical Formula Recognition from Tables.pdf) | Qingping Yang, Yixuan Cao, Hongwei Li, Ping Luo: Numerical Formula Recognition from Tables. KDD 2021: 1986-1996 |
-|[pdf](https://ping-luo.github.io/files/2021_Extracting Zero-shot Structured Information from Form-like Documents Pretraining with Keys and Triggers.pdf) | Rongyu Cao, Ping Luo: Extracting Zero-shot Structured Information from Form-like Documents Pretraining with Keys and Triggers. AAAI 2021|
-|[pdf](https://ping-luo.github.io/files/2020_Rich-text Document Styling Restoration via Reinforcement Learning.pdf) | Hongwei Li, Yingpeng Hu, Yixuan Cao, Ganbin Zhou, Ping Luo: Rich-text Document Styling Restoration via Reinforcement Learning. Frontiers Comput. Sci. (2021)|
 |[pdf](https://ping-luo.github.io/files/2020_Nested Relation Extraction with Iterative Neural Network.pdf) | Yixuan Cao, Dian Chen, Zhengqi Xu, Hongwei Li, Ping Luo: Nested Relation Extraction with Iterative Neural Network. Frontiers Comput. Sci. 15(3): 153323 (2021)|
+|[pdf](https://ping-luo.github.io/files/2020_Rich-text Document Styling Restoration via Reinforcement Learning.pdf) | Hongwei Li, Yingpeng Hu, Yixuan Cao, Ganbin Zhou, Ping Luo: Rich-text Document Styling Restoration via Reinforcement Learning. Frontiers Comput. Sci. (2021)|
+|pdf| Yixuan Cao, Feng Hong, Hongwei Li, Ping Luo: A Bottom-Up DAG Structure Extraction Model for Math Word Problems. AAAI 2021: 39-46|
+|[pdf](https://ping-luo.github.io/files/2021_Extracting Zero-shot Structured Information from Form-like Documents Pretraining with Keys and Triggers.pdf) | Rongyu Cao, Ping Luo: Extracting Zero-shot Structured Information from Form-like Documents Pretraining with Keys and Triggers. AAAI 2021|
+|pdf| Zhengqi Xu, Yixuan Cao, Rongyu Cao, Guoxiang Li, Xuanqiang Liu, Yan Pang, Yangbin Wang, Jianfei Zhang, Allie Cheung, Matthew Tam, Lukas Petrikas, Ping Luo: Jura: Towards Automatic Compliance Assessment for Annual Reports of Listed Companies. CIKM 2021: 4264-4272 |
+|pdf| Rongyu Cao, Hongwei Li, Ganbin Zhou, Ping Luo: Towards Document Panoptic Segmentation with Pinpoint Accuracy: Method and Evaluation. ICDAR (2) 2021: 3-18 |
+|pdf| Qingping Yang, Yingpeng Hu, Rongyu Cao, Hongwei Li, Ping Luo: Zero-shot Key Information Extraction from Mixed-Style Tables: Pre-training on Wikipedia. ICDM 2021: 1451-1456|
+|[pdf](https://ping-luo.github.io/files/2021_Numerical Formula Recognition from Tables.pdf) | Qingping Yang, Yixuan Cao, Hongwei Li, Ping Luo: Numerical Formula Recognition from Tables. KDD 2021: 1986-1996 |
 
 
 |2020 |  |
