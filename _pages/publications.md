@@ -8,10 +8,8 @@ author_profile:  true
 
 |2022 |  |
 |--- | ---|
-|pdf | Rongyu Cao, Yixuan Cao, Ganbin Zhou, Ping Luo:
-Extracting Variable-Depth Logical Document Hierarchy from Long Documents: Method, Evaluation, and Application. J. Comput. Sci. Technol. 37(3): 699-718 (2022) |
-|pdf | 	Qingping Yang, Yixuan Cao, Ping Luo:
-Numerical Tuple Extraction from Tables with Pre-training. KDD 2022: 2233-2241 |
+|pdf | Rongyu Cao, Yixuan Cao, Ganbin Zhou, Ping Luo: Extracting Variable-Depth Logical Document Hierarchy from Long Documents: Method, Evaluation, and Application. J. Comput. Sci. Technol. 37(3): 699-718 (2022) |
+|pdf | 	Qingping Yang, Yixuan Cao, Ping Luo: Numerical Tuple Extraction from Tables with Pre-training. KDD 2022: 2233-2241 |
 
 |2021 |  |
 |--- | ---|
