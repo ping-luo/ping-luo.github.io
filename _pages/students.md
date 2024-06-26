@@ -7,9 +7,9 @@ author_profile: true
 
 
 ### Ph.D. Students
-+ Chaoxu Pang (庞朝旭)
-+ Qiang Ding (丁强)
-+ Yue Tang (唐郁)
++ Chaoxu PANG (庞朝旭)
++ Qiang DING (丁强)
++ Yu TANG (唐郁)
 + Tianyu ZHOU (周天雨)
 + Bo LV (吕博)
 + Yifan LIU (刘逸凡)
