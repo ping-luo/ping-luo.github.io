@@ -12,7 +12,7 @@ author_profile:  true
 |2023 |  |
 |--- | ---|
 |[pdf](https://papers.nips.cc/paper_files/paper/2023/file/6f7fa4df2c8a79c164d3697898a32bd9-Paper-Conference.pdf) | 		Qiang Ding, Yixuan Cao, Ping Luo: Top-Ambiguity Samples Matter: Understanding Why Deep Ensemble Works in Selective Classification. NeurIPS 2023 |
-|[pdf](https://aclanthology.org/2024.findings-acl.82.pdf) | 		Chaoxu Pang, Yixuan Cao, Qiang Ding, Ping Luo: Guideline Learning for In-Context Information Extraction. EMNLP 2023: 15372-15389 |
+|[pdf](https://aclanthology.org/2023.emnlp-main.950.pdf) | 		Chaoxu Pang, Yixuan Cao, Qiang Ding, Ping Luo: Guideline Learning for In-Context Information Extraction. EMNLP 2023: 15372-15389 |
 
 |2022 |  |
 |--- | ---|
