@@ -5,6 +5,14 @@ permalink:  /publications/
 author_profile:  true
 ---
 
+|2024 |  |
+|--- | ---|
+|[pdf](https://aclanthology.org/2024.findings-acl.82.pdf) | 		Chaoxu Pang, Yixuan Cao, Chunhao Yang, Ping Luo: Uncovering Limitations of Large Language Models in Information Seeking from Tables. ACL (Findings) 2024: 1388-1409 |
+
+|2023 |  |
+|--- | ---|
+|[pdf](https://papers.nips.cc/paper_files/paper/2023/file/6f7fa4df2c8a79c164d3697898a32bd9-Paper-Conference.pdf) | 		Qiang Ding, Yixuan Cao, Ping Luo: Top-Ambiguity Samples Matter: Understanding Why Deep Ensemble Works in Selective Classification. NeurIPS 2023 |
+|[pdf](https://aclanthology.org/2024.findings-acl.82.pdf) | 		Chaoxu Pang, Yixuan Cao, Qiang Ding, Ping Luo: Guideline Learning for In-Context Information Extraction. EMNLP 2023: 15372-15389 |
 
 |2022 |  |
 |--- | ---|
