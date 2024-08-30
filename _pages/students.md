@@ -10,19 +10,21 @@ author_profile: true
 + Chaoxu PANG (庞朝旭)
 + Qiang DING (丁强)
 + Yu TANG (唐郁)
-+ Tianyu ZHOU (周天雨)
-+ Bo LV (吕博)
 + Yifan LIU (刘逸凡)
-+ Shaojie DAI (代少杰)
 + Xianjie MO (莫羡杰)
++ Bo LV (吕博)
++ Shaojie DAI (代少杰)
++ Tianyu ZHOU (周天雨)
++ Qi WANG (王棋)
 
 
 ### Master Students
-+ Qihang XIAO (肖启航)
 + Jiachen CHEN (陈嘉晨)
 + Lvzhou LUO (罗旅洲)
 + Haodong WANG (王昊东)
 + Hongshuo CHEN (陈宏硕)
++ Chunhao YANG (杨春昊)
++ Yongxin He (何永鑫)
 
 
 ### Alumni & Alumnae
@@ -36,7 +38,8 @@ author_profile: true
 + Feng HONG (洪峰) - MeiTuan
 + Zhengqi XU (徐政奇) - ByteDance
 + Zhenrong CHEN (陈峥嵘) - Xiaohongshu
-+ Chengxuan XIA (夏承轩) 
++ Chengxuan XIA (夏承轩) - UCSC
 + Xuyu FU (付旭宇) - Paoding
 + Juyao LIU (刘居要) - ByteDance
++ Qihang XIAO (肖启航) - Huawei
 
