@@ -5,6 +5,15 @@ permalink:  /publications/
 author_profile:  true
 ---
 
+|2025 |  |
+|--- | ---|
+| | Yixuan Cao, Juyao Liu, Haodong Wang, Jian Wang, Kun Wan, Gang Xiao, and Ping Luo. ConciseExplain: Reducing Redundancy and Spuriousness in Persuasive Recommendation Explanation. In KDD, 2025. |
+| | Qiang Ding, Lvzhou Luo, Yixuan Cao, Ping Luo. Attention with Dependency Parsing Augmentation for Fine-Grained Attribution. In ACL Findings, 2025. |
+| | Bo Lv, Nayu Liu, Yang Shen, Xin Liu, Ping Luo, Yue Yu. Whether LLMs Know If They Know: Identifying Knowledge Boundaries via Debiased Historical In-Context Learning. In ACL Findings, 2025. |
+| | Hongshuo Chen, Yixuan Cao, Shiwei Ye, and Ping Luo. Tagging Generatively: Dynamic and Open-Ended Image Tagging with MLLM. In IJCNN, 2025. |
+| | Yixuan Cao, Zhengrong Chen, Chengxuan Xia, Kun Wu, and Ping Luo. Towards Efficient Quantity Retrieval from Text: An Approach via Description Parsing and Weak Supervision. In DEXA, 2025. |
+| | Yifan Liu, Yixuan Cao, and Ping Luo. Inspire Me with Your Questions: Repurposing Historical Questions for New Documents. In DEXA, 2025. |
+
 |2024 |  |
 |--- | ---|
 |[pdf](https://aclanthology.org/2024.findings-acl.82.pdf) | 		Chaoxu Pang, Yixuan Cao, Chunhao Yang, Ping Luo: Uncovering Limitations of Large Language Models in Information Seeking from Tables. ACL (Findings) 2024: 1388-1409 |
