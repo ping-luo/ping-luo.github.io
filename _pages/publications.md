@@ -14,7 +14,7 @@ author_profile:  true
 |[pdf](https://ping-luo.github.io/files/2025_Whether LLMs Know If They Know- Identifying Knowledge Boundaries via Debiased Historical In-Context Learning.pdf) | Bo Lv, Nayu Liu, Yang Shen, Xin Liu, Ping Luo, Yue Yu. Whether LLMs Know If They Know: Identifying Knowledge Boundaries via Debiased Historical In-Context Learning. In ACL Findings, 2025. |
 | | Hongshuo Chen, Yixuan Cao, Shiwei Ye, and Ping Luo. Tagging Generatively: Dynamic and Open-Ended Image Tagging with MLLM. In IJCNN, 2025. |
 |[pdf](https://ping-luo.github.io/files/2025_Towards Efficient Quantity Retrieval from Text- An Approach via Description Parsing and Weak Supervision.pdf) | Yixuan Cao, Zhengrong Chen, Chengxuan Xia, Kun Wu, and Ping Luo. Towards Efficient Quantity Retrieval from Text: An Approach via Description Parsing and Weak Supervision. In DEXA, 2025. |
-| | Yifan Liu, Yixuan Cao, and Ping Luo. Inspire Me with Your Questions: Repurposing Historical Questions for New Documents. In DEXA, 2025. |
+|[pdf](https://link.springer.com/chapter/10.1007/978-3-032-02088-8_6) | Yifan Liu, Yixuan Cao, and Ping Luo. Inspire Me with Your Questions: Repurposing Historical Questions for New Documents. In DEXA, 2025. |
 
 |2024 |  |
 |--- | ---|
