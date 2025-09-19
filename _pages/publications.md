@@ -7,32 +7,34 @@ author_profile:  true
 
 |2025 |  |
 |--- | ---|
-| | Yixuan Cao, Juyao Liu, Haodong Wang, Jian Wang, Kun Wan, Gang Xiao, and Ping Luo. ConciseExplain: Reducing Redundancy and Spuriousness in Persuasive Recommendation Explanation. In KDD, 2025. |
-| | Qiang Ding, Lvzhou Luo, Yixuan Cao, Ping Luo. Attention with Dependency Parsing Augmentation for Fine-Grained Attribution. In ACL Findings, 2025. |
-| | Bo Lv, Nayu Liu, Yang Shen, Xin Liu, Ping Luo, Yue Yu. Whether LLMs Know If They Know: Identifying Knowledge Boundaries via Debiased Historical In-Context Learning. In ACL Findings, 2025. |
+| | Yongxin He, Shan Zhang, Yixuan Cao, Lei Ma, Ping Luo. DETree: DEtecting Human-AI Collaborative Texts via Tree-Structured Hierarchical Representation Learning. In NeurIPS, 2025. |
+|[pdf](https://openreview.net/forum?id=x0tdNRfQhe) | Lvzhou Luo, Yixuan Cao, Ping Luo. AttnComp: Attention-Guided Adaptive Context Compression for Retrieval-Augmented Generation. In EMNLP Findings, 2025. |
+|[pdf](https://ping-luo.github.io/files/2025_ConciseExplain- Reducing Redundancy and Spuriousness in Persuasive Recommendation Explanation.pdf) | Yixuan Cao, Juyao Liu, Haodong Wang, Jian Wang, Kun Wan, Gang Xiao, and Ping Luo. ConciseExplain: Reducing Redundancy and Spuriousness in Persuasive Recommendation Explanation. In KDD, 2025. |
+|[pdf](https://ping-luo.github.io/files/2025_Attention with Dependency Parsing Augmentation for Fine-Grained Attribution.pdf) | Qiang Ding, Lvzhou Luo, Yixuan Cao, Ping Luo. Attention with Dependency Parsing Augmentation for Fine-Grained Attribution. In ACL Findings, 2025. |
+|[pdf](https://ping-luo.github.io/files/2025_Whether LLMs Know If They Know- Identifying Knowledge Boundaries via Debiased Historical In-Context Learning.pdf) | Bo Lv, Nayu Liu, Yang Shen, Xin Liu, Ping Luo, Yue Yu. Whether LLMs Know If They Know: Identifying Knowledge Boundaries via Debiased Historical In-Context Learning. In ACL Findings, 2025. |
 | | Hongshuo Chen, Yixuan Cao, Shiwei Ye, and Ping Luo. Tagging Generatively: Dynamic and Open-Ended Image Tagging with MLLM. In IJCNN, 2025. |
-| | Yixuan Cao, Zhengrong Chen, Chengxuan Xia, Kun Wu, and Ping Luo. Towards Efficient Quantity Retrieval from Text: An Approach via Description Parsing and Weak Supervision. In DEXA, 2025. |
+|[pdf](https://ping-luo.github.io/files/2025_Towards Efficient Quantity Retrieval from Text- An Approach via Description Parsing and Weak Supervision.pdf) | Yixuan Cao, Zhengrong Chen, Chengxuan Xia, Kun Wu, and Ping Luo. Towards Efficient Quantity Retrieval from Text: An Approach via Description Parsing and Weak Supervision. In DEXA, 2025. |
 | | Yifan Liu, Yixuan Cao, and Ping Luo. Inspire Me with Your Questions: Repurposing Historical Questions for New Documents. In DEXA, 2025. |
 
 |2024 |  |
 |--- | ---|
-|[pdf](https://aclanthology.org/2024.findings-acl.82.pdf) | 		Chaoxu Pang, Yixuan Cao, Chunhao Yang, Ping Luo: Uncovering Limitations of Large Language Models in Information Seeking from Tables. ACL (Findings) 2024: 1388-1409 |
+|[pdf](https://ping-luo.github.io/files/2024_Uncovering Limitations of Large Language Models in Information Seeking from Tables.pdf) | 		Chaoxu Pang, Yixuan Cao, Chunhao Yang, Ping Luo: Uncovering Limitations of Large Language Models in Information Seeking from Tables. ACL (Findings) 2024: 1388-1409 |
 
 |2023 |  |
 |--- | ---|
 |[pdf](https://papers.nips.cc/paper_files/paper/2023/file/6f7fa4df2c8a79c164d3697898a32bd9-Paper-Conference.pdf) | 		Qiang Ding, Yixuan Cao, Ping Luo: Top-Ambiguity Samples Matter: Understanding Why Deep Ensemble Works in Selective Classification. NeurIPS 2023 |
-|[pdf](https://aclanthology.org/2023.emnlp-main.950.pdf) | 		Chaoxu Pang, Yixuan Cao, Qiang Ding, Ping Luo: Guideline Learning for In-Context Information Extraction. EMNLP 2023: 15372-15389 |
+|[pdf](https://ping-luo.github.io/files/2023_Guideline Learning for In-Context Information Extraction.pdf) | 		Chaoxu Pang, Yixuan Cao, Qiang Ding, Ping Luo: Guideline Learning for In-Context Information Extraction. EMNLP 2023: 15372-15389 |
 
 |2022 |  |
 |--- | ---|
 |[pdf](https://link.springer.com/article/10.1007/s11390-021-1076-7) | Rongyu Cao, Yixuan Cao, Ganbin Zhou, Ping Luo: Extracting Variable-Depth Logical Document Hierarchy from Long Documents: Method, Evaluation, and Application. J. Comput. Sci. Technol. 37(3): 699-718 (2022) |
-|[pdf](https://dl.acm.org/doi/10.1145/3534678.3539460) | 	Qingping Yang, Yixuan Cao, Ping Luo: Numerical Tuple Extraction from Tables with Pre-training. KDD 2022: 2233-2241 |
+|[pdf](https://ping-luo.github.io/files/2022_Numerical Tuple Extraction from Tables with Pre-training.pdf) | 	Qingping Yang, Yixuan Cao, Ping Luo: Numerical Tuple Extraction from Tables with Pre-training. KDD 2022: 2233-2241 |
 
 |2021 |  |
 |--- | ---|
 |[pdf](https://ping-luo.github.io/files/2020_Nested Relation Extraction with Iterative Neural Network.pdf) | Yixuan Cao, Dian Chen, Zhengqi Xu, Hongwei Li, Ping Luo: Nested Relation Extraction with Iterative Neural Network. Frontiers Comput. Sci. 15(3): 153323 (2021)|
 |[pdf](https://ping-luo.github.io/files/2020_Rich-text Document Styling Restoration via Reinforcement Learning.pdf) | Hongwei Li, Yingpeng Hu, Yixuan Cao, Ganbin Zhou, Ping Luo: Rich-text Document Styling Restoration via Reinforcement Learning. Frontiers Comput. Sci. (2021)|
-|[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/16075/15882)| Yixuan Cao, Feng Hong, Hongwei Li, Ping Luo: A Bottom-Up DAG Structure Extraction Model for Math Word Problems. AAAI 2021: 39-46|
+|[pdf](https://ping-luo.github.io/files/2021_A Bottom-Up DAG Structure Extraction Model for Math Word Problems.pdf)| Yixuan Cao, Feng Hong, Hongwei Li, Ping Luo: A Bottom-Up DAG Structure Extraction Model for Math Word Problems. AAAI 2021: 39-46|
 |[pdf](https://ping-luo.github.io/files/2021_Extracting Zero-shot Structured Information from Form-like Documents Pretraining with Keys and Triggers.pdf) | Rongyu Cao, Ping Luo: Extracting Zero-shot Structured Information from Form-like Documents Pretraining with Keys and Triggers. AAAI 2021|
 |[pdf](https://dl.acm.org/doi/10.1145/3459637.3481929)| Zhengqi Xu, Yixuan Cao, Rongyu Cao, Guoxiang Li, Xuanqiang Liu, Yan Pang, Yangbin Wang, Jianfei Zhang, Allie Cheung, Matthew Tam, Lukas Petrikas, Ping Luo: Jura: Towards Automatic Compliance Assessment for Annual Reports of Listed Companies. CIKM 2021: 4264-4272 |
 |[pdf](https://link.springer.com/chapter/10.1007/978-3-030-86331-9_1)| Rongyu Cao, Hongwei Li, Ganbin Zhou, Ping Luo: Towards Document Panoptic Segmentation with Pinpoint Accuracy: Method and Evaluation. ICDAR (2) 2021: 3-18 |
