@@ -18,7 +18,7 @@ author_profile:  true
 
 |2024 |  |
 |--- | ---|
-|[pdf](https://ping-luo.github.io/files/2024_Uncovering Limitations of Large Language Models in Information Seeking from Tables.pdf) | 		Chaoxu Pang, Yixuan Cao, Chunhao Yang, Ping Luo: Uncovering Limitations of Large Language Models in Information Seeking from Tables. ACL (Findings) 2024: 1388-1409 |
+|[pdf](https://ping-luo.github.io/files/2024_Uncovering Limitations of Large Language Models in Information Seeking from Tables.pdf) | Chaoxu Pang, Yixuan Cao, Chunhao Yang, Ping Luo: Uncovering Limitations of Large Language Models in Information Seeking from Tables. ACL (Findings) 2024: 1388-1409 |
 
 |2023 |  |
 |--- | ---|
