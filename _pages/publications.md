@@ -7,7 +7,7 @@ author_profile:  true
 
 |2025 |  |
 |--- | ---|
-| | Yongxin He, Shan Zhang, Yixuan Cao, Lei Ma, Ping Luo. DETree: DEtecting Human-AI Collaborative Texts via Tree-Structured Hierarchical Representation Learning. In NeurIPS, 2025. |
+|[pdf](https://neurips.cc/virtual/2025/poster/115391) | Yongxin He, Shan Zhang, Yixuan Cao, Lei Ma, Ping Luo. DETree: DEtecting Human-AI Collaborative Texts via Tree-Structured Hierarchical Representation Learning. In NeurIPS, 2025. |
 |[pdf](https://openreview.net/forum?id=x0tdNRfQhe) | Lvzhou Luo, Yixuan Cao, Ping Luo. AttnComp: Attention-Guided Adaptive Context Compression for Retrieval-Augmented Generation. In EMNLP Findings, 2025. |
 |[pdf](https://ping-luo.github.io/files/2025_ConciseExplain- Reducing Redundancy and Spuriousness in Persuasive Recommendation Explanation.pdf) | Yixuan Cao, Juyao Liu, Haodong Wang, Jian Wang, Kun Wan, Gang Xiao, and Ping Luo. ConciseExplain: Reducing Redundancy and Spuriousness in Persuasive Recommendation Explanation. In KDD, 2025. |
 |[pdf](https://ping-luo.github.io/files/2025_Attention with Dependency Parsing Augmentation for Fine-Grained Attribution.pdf) | Qiang Ding, Lvzhou Luo, Yixuan Cao, Ping Luo. Attention with Dependency Parsing Augmentation for Fine-Grained Attribution. In ACL Findings, 2025. |
